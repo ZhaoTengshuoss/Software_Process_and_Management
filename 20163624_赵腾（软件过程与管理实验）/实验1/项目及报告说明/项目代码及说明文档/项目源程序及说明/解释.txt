@@ -1,0 +1,117 @@
+student中
+      首页 
+    info.jsp//系统首页
+    
+    myself.jsp// 修改个人资料
+     Loginout.jsp//注销
+   
+    个人信息（主要）页面：
+    show.jsp//个人信息
+    sp_info.jsp//个人详细信息
+    cho_c.jsp//选课
+    cho_c1.jsp//选课执行
+    del_c.jsp//退课
+    
+    
+    课程信息（主要页面）：
+    cource.jsp//课程信息
+    show_s.jsp//学生选课情况
+    
+     老师信息（主要页面）：
+     teacher.jsp//老师信息
+     tp_info.jsp//课程所属老师的基本信息
+     show_c_s.jsp//已选学生
+     
+     
+teacher中
+  个人信息（主要）页面：
+    show_t.jsp//个人信息  
+    show_s.jsp//课程选课情况  
+    post_score.jsp//提交成绩 
+    post_score1.jsp//执行提交成绩 
+    show_s2.jsp//添加学生（向自己的所教课程中）
+    updateInput2.jsp//更新课程信息
+    tp_info.jsp//课程所属老师的基本信息
+    show_c_s.jsp//已选学生
+    add_c.jsp//添加课程
+    add_c1.jsp//执行添加课程操作
+    delete1.jsp//删除课程
+    a_student.jsp//添加
+    update2.jsp//执行更新课程信息
+    学生信息（主要页面）：
+    s_info.jsp//学生信息
+    show.jsp//学生已选课程
+    
+    课程信息（主要页面）：
+    cource.jsp//课程信息
+    show_a_s.jsp//课程信息的 课程选课情况
+    tp_info.jsp//课程所属老师的基本信息
+    show_c_s.jsp//已选学生
+    
+    首页 
+    info.jsp//系统首页
+    myself.jsp// 修改个人资料
+     Loginout.jsp//注销
+     
+     
+    
+  User中：
+  
+  课程页面：
+  cource.jsp//课程信息
+  show_s.jsp//课程选课情况
+   post_score.jsp//提交成绩 
+   post_score1.jsp//执行提交成绩
+  
+  show_s2.jsp//添加学生（向自己的所教课程中）
+  a_student.jsp//添加
+  tp_info.jsp//课程所属老师的基本信息
+  show_c_s.jsp//已选学生
+  
+  updateInput2.jsp//更新课程信息
+  update2.jsp//执行更新课程信息
+  
+  add_c.jsp//添加课程
+  add_c1.jsp//执行添加课程操作
+  delete1.jsp//删除课程
+  
+  学生信息
+  s_info.jsp//所有学生信息
+  show.jsp//学生已选课程
+  cho_c.jsp//选课
+    cho_c1.jsp//选课执行
+    del_c.jsp//退课
+    updateInput.jsp//修改学生信息
+    update.jsp//执行updateInput.jsp
+    delete.jsp//删除学生
+    
+    
+  老师信息
+  tp_info3.jsp//某个老师的基本信息
+  teacher.jsp//老师信息
+  show_c_s2.jsp//某个老师的某个课程的已选学生
+  updateInput_t.jsp//修改老师信息
+  do_updateInput_t.jsp//执行updateInput_t.jsp
+  delete_t.jsp//删除老师
+  
+  用户信息
+  
+  u_info.jsp//用户信息
+  show_info.jsp//查看老师的详细信息
+  show_t_info.jsp//查看老师所设课程的已选学生
+  show_info.jsp//查看学生的详细信息
+  updateInput_u.jsp//修改用户的信息
+  do_updateInput_u.jsp//执行updateInput_u.jsp
+  add_u.jsp//添加用户
+  do_add_u.jsp//执行add_u.jsp
+  
+  首页 
+  updateSelf.jsp//执行修改个人资料
+  loginInput.jsp//登录页面
+  login1.jsp//执行登录操作
+  registerInput.jsp//登录页面
+  register1.jsp//执行注册操作
+    info.jsp//系统首页
+    myself.jsp// 修改个人资料
+     Loginout.jsp//注销
+  
